@@ -8,5 +8,4 @@ Comes with RaptorGl Editor to write, debug and build your game.
   
 [Read More at RaptorGL.com](http://www.raptorgl.com)  
   
-![RaptorGL Logo](http://raptorgl.com/media/img/rgllogo-380x364.png)
-
+![RaptorGL Logo](http://raptorgl.com/static/img/rgl-head-logo260x388.png)
